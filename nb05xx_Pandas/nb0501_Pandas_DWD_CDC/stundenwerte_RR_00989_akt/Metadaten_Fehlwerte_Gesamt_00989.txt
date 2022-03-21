@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+989;Dinslaken;R1;01.02.2005-00:00;25.06.2019-08:00;39;Gesamt_Messzeitraum;eor;                                                                                                                          
+989;Dinslaken;RS_IND;01.02.2005-00:00;25.06.2019-08:00;39;Gesamt_Messzeitraum;eor;                                                                                                                      
+989;Dinslaken;WRTR;01.02.2005-01:00;10.01.2012-02:00;1319;Gesamt_Messzeitraum;eor;                                                                                                                      

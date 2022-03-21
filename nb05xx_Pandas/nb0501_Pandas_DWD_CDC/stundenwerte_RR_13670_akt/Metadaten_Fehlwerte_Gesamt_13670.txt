@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+13670;Duisburg-Baerl;R1;01.06.2007-00:00;25.06.2019-08:00;187;Gesamt_Messzeitraum;eor;                                                                                                                  
+13670;Duisburg-Baerl;RS_IND;01.06.2007-00:00;25.06.2019-08:00;187;Gesamt_Messzeitraum;eor;                                                                                                              
+13670;Duisburg-Baerl;WRTR;01.06.2007-01:00;10.01.2012-02:00;1288;Gesamt_Messzeitraum;eor;                                                                                                               

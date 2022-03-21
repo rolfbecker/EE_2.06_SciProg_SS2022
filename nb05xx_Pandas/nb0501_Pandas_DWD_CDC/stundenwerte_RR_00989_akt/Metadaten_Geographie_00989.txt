@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   989;   34.00; 51.5637;  6.7699;18910101;19261231;Dinslaken
+   989;   34.00; 51.5635;  6.7716;19270101;19801114;Dinslaken
+   989;   36.00; 51.5518;  6.7794;19801115;19821024;Dinslaken
+   989;   60.00; 51.5742;  6.7678;19821025;19830311;Dinslaken
+   989;   43.00; 51.5617;  6.7730;19830312;20050131;Dinslaken
+   989;   53.00; 51.5765;  6.7849;20050201;        ;Dinslaken
